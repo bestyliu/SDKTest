@@ -1,0 +1,3 @@
+include ':customLibraray'
+include ':app'
+rootProject.name = "SDKTest"
